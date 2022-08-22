@@ -1,4 +1,4 @@
-### Hello, I'm Jonathan 👋
+<!-- ### Hello, I'm Jonathan 👋 -->
 
 <!-- **dejmartins/dejmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
