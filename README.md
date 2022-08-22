@@ -30,7 +30,7 @@
 
 **Here's a quick summary about me**:
 
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering), and [Semicolon Africa](https://semicolon.africa/)
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) and [Semicolon Africa](https://semicolon.africa/)
 - 🌱 I’m currently learning JavaScript, Reactjs, Java, Spring, Python, and how to think.
 - 😊 I’m looking for help with open source projects, system design & architecture
 - 🔭 I’m currently working on a pet project to promote peer-to-peer learning in the classroom
