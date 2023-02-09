@@ -1,15 +1,15 @@
 ### Hello, I'm Olalekan 👋🏾
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-dejmartins-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olalekan-sofuyi)](https://www.linkedin.com/in/olalekan-sofuyi) [![Twitter Badge](https://img.shields.io/badge/-@Nobodyuglier-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Nobodyuglier)](https://twitter.com/Nobodyuglier)
+[![Linkedin Badge](https://img.shields.io/badge/-Olelakan-Sofuyi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olalekan-sofuyi)](https://www.linkedin.com/in/olalekan-sofuyi) [![Twitter Badge](https://img.shields.io/badge/-@Nobodyuglier-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Nobodyuglier)](https://twitter.com/Nobodyuglier)
 
 
 **Here's a quick summary about me**:
 
 - 💡 Fun fact: I'm currently studying at [Semicolon Africa](https://semicolon.africa/)
-- 🌱 I’m currently learning JavaScript, Reactjs, Java, Spring, Python, development and operation and how to think.
+- 🌱 I’m currently learning JavaScript, Reactjs, Java, Spring, Python, Devops and how to think.
 - 😊 I’m looking for help with open source projects, system design & architecture
-- 🔭 I’m currently working on a pet project to promote Assessable, Comfortable, reliable and cost-effective solution  to transporttion.
+- 🔭 I’m currently working on a pet project to promote Assessible, Comfortable, reliable and cost-effective solution to transporttion.
 - 👯 I’m looking to collaborate on new products and research.
 
 
