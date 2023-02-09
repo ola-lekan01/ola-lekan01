@@ -1,7 +1,7 @@
 ### Hello, I'm Olalekan 👋🏾
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-dejmartins-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martins-jonathan)](https://www.linkedin.com/in/martins-jonathan-206158199/) [![Twitter Badge](https://img.shields.io/badge/-@dejallday-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/dejallday)](https://twitter.com/dejallday)
+[![Linkedin Badge](https://img.shields.io/badge/-dejmartins-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olalekan-sofuyi)](https://www.linkedin.com/in/olalekan-sofuyi) [![Twitter Badge](https://img.shields.io/badge/-@Nobodyuglier-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Nobodyuglier)](https://twitter.com/Nobodyuglier)
 
 
 **Here's a quick summary about me**:
