@@ -7,7 +7,7 @@
 **Here's a quick summary about me**:
 
 - 💡 Fun fact: I'm currently studying at [Semicolon Africa](https://semicolon.africa/)
-- 🌱 I’m currently learning JavaScript, Reactjs, Java, Spring, Python, Devops and how to think.
+- 🌱 I’m currently learning JavaScript, TypeScript, Reactjs, NodeJS, Java, Spring, Python, Devops and how to think.
 - 😊 I’m looking for help with open source projects, system design & architecture
 - 🔭 I’m currently working on a pet project to promote Assessible, Comfortable, reliable and cost-effective solution to transporttion.
 - 👯 I’m looking to collaborate on new products and research.
